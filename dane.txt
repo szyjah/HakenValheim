@@ -1,0 +1,5 @@
+1
+1
+Dedicated
+0
+C:\Program Files (x86)\Steam\steamapps\common\Valheim dedicated server
